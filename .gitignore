@@ -1,0 +1,12 @@
+.vscode
+
+venv
+__pycache__
+
+.pytest_cache
+
+src/data/*
+tests/data/*
+
+!src/data/.gitkeep
+!tests/data/.gitkeep
