@@ -10,3 +10,5 @@ tests/data/*
 
 !src/data/.gitkeep
 !tests/data/.gitkeep
+
+src/__main__.py
